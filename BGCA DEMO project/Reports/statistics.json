@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 30,
+    "errorCount" : 13,
+    "errorPct" : 43.333332,
+    "meanResTime" : 2528.3,
+    "medianResTime" : 2426.0,
+    "minResTime" : 1394.0,
+    "maxResTime" : 4078.0,
+    "pct1ResTime" : 3624.9,
+    "pct2ResTime" : 3895.95,
+    "pct3ResTime" : 4078.0,
+    "throughput" : 4.426084390675715,
+    "receivedKBytesPerSec" : 415.8401376696666,
+    "sentKBytesPerSec" : 1.15838927412216
+  },
+  "BGCA home page" : {
+    "transaction" : "BGCA home page",
+    "sampleCount" : 15,
+    "errorCount" : 13,
+    "errorPct" : 86.666664,
+    "meanResTime" : 3167.7999999999997,
+    "medianResTime" : 3060.0,
+    "minResTime" : 2405.0,
+    "maxResTime" : 4078.0,
+    "pct1ResTime" : 3879.4,
+    "pct2ResTime" : 4078.0,
+    "pct3ResTime" : 4078.0,
+    "throughput" : 2.8527957398250283,
+    "receivedKBytesPerSec" : 267.6585456090719,
+    "sentKBytesPerSec" : 0.3175964007227082
+  },
+  "About Us" : {
+    "transaction" : "About Us",
+    "sampleCount" : 15,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1888.7999999999997,
+    "medianResTime" : 1932.0,
+    "minResTime" : 1394.0,
+    "maxResTime" : 2447.0,
+    "pct1ResTime" : 2370.8,
+    "pct2ResTime" : 2447.0,
+    "pct3ResTime" : 2447.0,
+    "throughput" : 4.351610095735422,
+    "receivedKBytesPerSec" : 409.40406739556136,
+    "sentKBytesPerSec" : 1.793339316797215
+  }
+}

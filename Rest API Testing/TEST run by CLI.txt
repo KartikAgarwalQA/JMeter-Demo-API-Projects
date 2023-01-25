@@ -1,0 +1,3 @@
+jmeter -n -t "C:\Users\Kartikey\OneDrive - iLink Systems Inc\Desktop\Jmeter Demo Project\Rest API Testing\REST_API_Testing.jmx" 
+-l "C:\Users\Kartikey\OneDrive - iLink Systems Inc\Desktop\Jmeter Demo Project\Rest API Testing\samplereport.csv" 
+-e -o "C:\Users\Kartikey\OneDrive - iLink Systems Inc\Desktop\Jmeter Demo Project\Rest API Testing\HTMLreports"

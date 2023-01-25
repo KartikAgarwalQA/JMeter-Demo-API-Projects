@@ -1,0 +1,121 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1674559585160,2465,BGCA home page,200,OK,BGCA Thread Group 1-2,text,true,,96075,114,15,15,https://www.bgca.org/,1697,0,985
+1674559585695,2201,BGCA home page,200,OK,BGCA Thread Group 1-6,text,true,,96075,114,15,15,https://www.bgca.org/,1657,0,885
+1674559585563,2578,BGCA home page,200,OK,BGCA Thread Group 1-5,text,false,"The operation lasted too long: It took 2,578 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,1794,0,804
+1674559585430,3054,BGCA home page,200,OK,BGCA Thread Group 1-4,text,false,"The operation lasted too long: It took 3,054 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2527,0,809
+1674559585026,3582,BGCA home page,200,OK,BGCA Thread Group 1-1,text,false,"The operation lasted too long: It took 3,582 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2835,0,1104
+1674559585829,2794,BGCA home page,200,OK,BGCA Thread Group 1-7,text,false,"The operation lasted too long: It took 2,794 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2291,0,777
+1674559585960,2708,BGCA home page,200,OK,BGCA Thread Group 1-8,text,false,"The operation lasted too long: It took 2,708 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2181,0,807
+1674559586092,2586,BGCA home page,200,OK,BGCA Thread Group 1-9,text,false,"The operation lasted too long: It took 2,586 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2058,0,842
+1674559586225,2663,BGCA home page,200,OK,BGCA Thread Group 1-10,text,false,"The operation lasted too long: It took 2,663 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,1903,0,793
+1674559587649,1457,About Us,200,OK,BGCA Thread Group 1-2,text,true,,96906,122,15,15,https://www.bgca.org/about-us,1180,0,0
+1674559585293,3852,BGCA home page,200,OK,BGCA Thread Group 1-3,text,false,"The operation lasted too long: It took 3,852 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,14,14,https://www.bgca.org/,3088,0,833
+1674559586626,2533,BGCA home page,200,OK,BGCA Thread Group 1-13,text,false,"The operation lasted too long: It took 2,533 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,14,14,https://www.bgca.org/,1758,0,797
+1674559586491,2696,BGCA home page,200,OK,BGCA Thread Group 1-12,text,false,"The operation lasted too long: It took 2,696 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,14,14,https://www.bgca.org/,1950,0,810
+1674559588494,866,About Us,200,OK,BGCA Thread Group 1-4,text,true,,96906,122,14,14,https://www.bgca.org/about-us,843,0,0
+1674559586757,2852,BGCA home page,200,OK,BGCA Thread Group 1-14,text,false,"The operation lasted too long: It took 2,852 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,13,13,https://www.bgca.org/,2076,0,807
+1674559586889,2758,BGCA home page,200,OK,BGCA Thread Group 1-15,text,false,"The operation lasted too long: It took 2,758 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,13,13,https://www.bgca.org/,1951,0,822
+1674559588152,1518,About Us,200,OK,BGCA Thread Group 1-5,text,true,,96906,122,13,13,https://www.bgca.org/about-us,1259,0,0
+1674559588616,1166,About Us,200,OK,BGCA Thread Group 1-1,text,true,,96906,122,12,12,https://www.bgca.org/about-us,908,0,0
+1674559587907,2089,About Us,200,OK,BGCA Thread Group 1-6,text,true,,96906,122,11,11,https://www.bgca.org/about-us,1834,0,0
+1674559588632,1477,About Us,200,OK,BGCA Thread Group 1-7,text,true,,96906,122,10,10,https://www.bgca.org/about-us,1462,0,0
+1674559586358,3808,BGCA home page,200,OK,BGCA Thread Group 1-11,text,false,"The operation lasted too long: It took 3,808 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,9,9,https://www.bgca.org/,3054,0,814
+1674559588679,1703,About Us,200,OK,BGCA Thread Group 1-8,text,true,,96906,122,9,9,https://www.bgca.org/about-us,1442,0,0
+1674559588688,1775,About Us,200,OK,BGCA Thread Group 1-9,text,true,,96906,122,8,8,https://www.bgca.org/about-us,1517,0,0
+1674559588898,1635,About Us,200,OK,BGCA Thread Group 1-10,text,true,,96906,122,7,7,https://www.bgca.org/about-us,1386,0,0
+1674559589167,1449,About Us,200,OK,BGCA Thread Group 1-13,text,true,,96906,122,6,6,https://www.bgca.org/about-us,1174,0,0
+1674559589154,1462,About Us,200,OK,BGCA Thread Group 1-3,text,true,,96906,122,6,6,https://www.bgca.org/about-us,1203,0,0
+1674559589196,1420,About Us,200,OK,BGCA Thread Group 1-12,text,true,,96906,122,6,6,https://www.bgca.org/about-us,1160,0,0
+1674559589648,1378,About Us,200,OK,BGCA Thread Group 1-14,text,true,,96906,122,3,3,https://www.bgca.org/about-us,1127,0,0
+1674559589663,1393,About Us,200,OK,BGCA Thread Group 1-15,text,true,,96906,122,3,3,https://www.bgca.org/about-us,1126,0,0
+1674559590175,946,About Us,200,OK,BGCA Thread Group 1-11,text,true,,96906,122,1,1,https://www.bgca.org/about-us,694,0,0
+1674560709721,4054,BGCA home page,200,OK,BGCA Thread Group 1-1,text,false,"The operation lasted too long: It took 4,054 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,3521,0,1727
+1674560710398,3642,BGCA home page,200,OK,BGCA Thread Group 1-7,text,false,"The operation lasted too long: It took 3,642 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2865,0,1094
+1674560710530,3202,BGCA home page,200,OK,BGCA Thread Group 1-8,text,false,"The operation lasted too long: It took 3,202 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2415,0,963
+1674560710662,3389,BGCA home page,200,OK,BGCA Thread Group 1-9,text,false,"The operation lasted too long: It took 3,389 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2602,0,870
+1674560710003,3782,BGCA home page,200,OK,BGCA Thread Group 1-4,text,false,"The operation lasted too long: It took 3,782 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2942,0,1466
+1674560710266,4024,BGCA home page,200,OK,BGCA Thread Group 1-6,text,false,"The operation lasted too long: It took 4,024 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,3252,0,1233
+1674560709875,4436,BGCA home page,200,OK,BGCA Thread Group 1-3,text,false,"The operation lasted too long: It took 4,436 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,3644,0,1665
+1674560711460,3242,BGCA home page,200,OK,BGCA Thread Group 1-15,text,false,"The operation lasted too long: It took 3,242 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2470,0,813
+1674560709739,4924,BGCA home page,200,OK,BGCA Thread Group 1-2,text,false,"The operation lasted too long: It took 4,924 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,4086,0,1713
+1674560710878,3884,BGCA home page,200,OK,BGCA Thread Group 1-10,text,false,"The operation lasted too long: It took 3,884 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,3133,0,899
+1674560711058,3614,BGCA home page,200,OK,BGCA Thread Group 1-12,text,false,"The operation lasted too long: It took 3,614 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2855,0,796
+1674560710133,4506,BGCA home page,200,OK,BGCA Thread Group 1-5,text,false,"The operation lasted too long: It took 4,506 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,3719,0,1312
+1674560710926,3781,BGCA home page,200,OK,BGCA Thread Group 1-11,text,false,"The operation lasted too long: It took 3,781 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,3018,0,870
+1674560711193,3519,BGCA home page,200,OK,BGCA Thread Group 1-13,text,false,"The operation lasted too long: It took 3,519 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2752,0,861
+1674560711332,3292,BGCA home page,200,OK,BGCA Thread Group 1-14,text,false,"The operation lasted too long: It took 3,292 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96075,114,15,15,https://www.bgca.org/,2493,0,792
+1674560714132,1093,About Us,200,OK,BGCA Thread Group 1-4,text,true,,96339,422,15,15,https://www.bgca.org/about-us,822,0,0
+1674560714134,1159,About Us,200,OK,BGCA Thread Group 1-9,text,true,,96339,422,14,14,https://www.bgca.org/about-us,894,0,0
+1674560714135,2730,About Us,200,OK,BGCA Thread Group 1-8,text,false,"The operation lasted too long: It took 2,730 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,13,13,https://www.bgca.org/about-us,2476,0,0
+1674560714338,2821,About Us,200,OK,BGCA Thread Group 1-3,text,false,"The operation lasted too long: It took 2,821 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,12,12,https://www.bgca.org/about-us,2554,0,0
+1674560714095,3258,About Us,200,OK,BGCA Thread Group 1-1,text,false,"The operation lasted too long: It took 3,258 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,11,11,https://www.bgca.org/about-us,3247,0,0
+1674560714797,2574,About Us,200,OK,BGCA Thread Group 1-12,text,false,"The operation lasted too long: It took 2,574 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,10,10,https://www.bgca.org/about-us,2276,0,0
+1674560714794,2579,About Us,200,OK,BGCA Thread Group 1-15,text,false,"The operation lasted too long: It took 2,579 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,10,10,https://www.bgca.org/about-us,2301,0,0
+1674560714780,2813,About Us,200,OK,BGCA Thread Group 1-2,text,false,"The operation lasted too long: It took 2,813 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,8,8,https://www.bgca.org/about-us,2550,0,0
+1674560714805,2807,About Us,200,OK,BGCA Thread Group 1-11,text,false,"The operation lasted too long: It took 2,807 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,7,7,https://www.bgca.org/about-us,2531,0,0
+1674560714326,3308,About Us,200,OK,BGCA Thread Group 1-6,text,false,"The operation lasted too long: It took 3,308 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,7,7,https://www.bgca.org/about-us,3008,0,0
+1674560714792,2855,About Us,200,OK,BGCA Thread Group 1-10,text,false,"The operation lasted too long: It took 2,855 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,6,6,https://www.bgca.org/about-us,2582,0,0
+1674560714805,2843,About Us,200,OK,BGCA Thread Group 1-13,text,false,"The operation lasted too long: It took 2,843 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,6,6,https://www.bgca.org/about-us,2572,0,0
+1674560714813,2859,About Us,200,OK,BGCA Thread Group 1-14,text,false,"The operation lasted too long: It took 2,859 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,5,5,https://www.bgca.org/about-us,2579,0,0
+1674560714136,3538,About Us,200,OK,BGCA Thread Group 1-7,text,false,"The operation lasted too long: It took 3,538 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,5,5,https://www.bgca.org/about-us,3273,0,0
+1674560714797,3191,About Us,200,OK,BGCA Thread Group 1-5,text,false,"The operation lasted too long: It took 3,191 milliseconds, but should not have lasted longer than 2,500 milliseconds.",96339,422,1,1,https://www.bgca.org/about-us,2937,0,0
+1674561167159,5499,BGCA home page,200,OK,BGCA Thread Group 1-6,text,false,"The operation lasted too long: It took 5,499 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,4989,0,1258
+1674561167562,5393,BGCA home page,200,OK,BGCA Thread Group 1-9,text,false,"The operation lasted too long: It took 5,393 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,4609,0,824
+1674561167420,5514,BGCA home page,200,OK,BGCA Thread Group 1-8,text,false,"The operation lasted too long: It took 5,514 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,4751,0,944
+1674561167843,5153,BGCA home page,200,OK,BGCA Thread Group 1-11,text,false,"The operation lasted too long: It took 5,153 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,4575,0,890
+1674561168352,4695,BGCA home page,200,OK,BGCA Thread Group 1-15,text,false,"The operation lasted too long: It took 4,695 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,3926,0,786
+1674561172840,1390,About Us,200,OK,BGCA Thread Group 1-6,text,true,,96339,422,15,15,https://www.bgca.org/about-us,1361,0,0
+1674561173038,1455,About Us,200,OK,BGCA Thread Group 1-9,text,true,,96339,422,14,14,https://www.bgca.org/about-us,1200,0,0
+1674561173083,1552,About Us,200,OK,BGCA Thread Group 1-11,text,true,,96339,422,13,13,https://www.bgca.org/about-us,1288,0,0
+1674561173089,1565,About Us,200,OK,BGCA Thread Group 1-15,text,true,,96339,422,13,13,https://www.bgca.org/about-us,1293,0,0
+1674561173042,1680,About Us,200,OK,BGCA Thread Group 1-8,text,true,,96339,422,11,11,https://www.bgca.org/about-us,1406,0,0
+1674561167294,8099,BGCA home page,200,OK,BGCA Thread Group 1-7,text,false,"The operation lasted too long: It took 8,099 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,7587,0,1123
+1674561168214,7433,BGCA home page,200,OK,BGCA Thread Group 1-14,text,false,"The operation lasted too long: It took 7,433 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,6679,0,841
+1674561167712,7956,BGCA home page,200,OK,BGCA Thread Group 1-10,text,false,"The operation lasted too long: It took 7,956 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,7185,0,816
+1674561166893,8850,BGCA home page,200,OK,BGCA Thread Group 1-4,text,false,"The operation lasted too long: It took 8,850 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,8357,0,1545
+1674561168084,7944,BGCA home page,200,OK,BGCA Thread Group 1-13,text,false,"The operation lasted too long: It took 7,944 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,7178,0,853
+1674561167953,8091,BGCA home page,200,OK,BGCA Thread Group 1-12,text,false,"The operation lasted too long: It took 8,091 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,7309,0,823
+1674561166762,9304,BGCA home page,200,OK,BGCA Thread Group 1-3,text,false,"The operation lasted too long: It took 9,304 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,10,10,https://www.bgca.org/,8506,0,1614
+1674561175757,3964,About Us,200,OK,BGCA Thread Group 1-4,text,false,"The operation lasted too long: It took 3,964 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,10,10,https://www.bgca.org/about-us,3720,0,0
+1674561175686,4068,About Us,200,OK,BGCA Thread Group 1-14,text,false,"The operation lasted too long: It took 4,068 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,9,9,https://www.bgca.org/about-us,3806,0,0
+1674561176098,3669,About Us,200,OK,BGCA Thread Group 1-12,text,false,"The operation lasted too long: It took 3,669 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,9,9,https://www.bgca.org/about-us,3391,0,0
+1674561175695,4085,About Us,200,OK,BGCA Thread Group 1-10,text,false,"The operation lasted too long: It took 4,085 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,8,8,https://www.bgca.org/about-us,3803,0,0
+1674561175434,4804,About Us,200,OK,BGCA Thread Group 1-7,text,false,"The operation lasted too long: It took 4,804 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,6,6,https://www.bgca.org/about-us,4787,0,0
+1674561176095,4423,About Us,200,OK,BGCA Thread Group 1-13,text,false,"The operation lasted too long: It took 4,423 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,5,5,https://www.bgca.org/about-us,4163,0,0
+1674561176098,4466,About Us,200,OK,BGCA Thread Group 1-3,text,false,"The operation lasted too long: It took 4,466 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96339,422,4,4,https://www.bgca.org/about-us,4192,0,0
+1674561166623,14227,BGCA home page,200,OK,BGCA Thread Group 1-2,text,false,"The operation lasted too long: It took 14,227 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,3,3,https://www.bgca.org/,13697,0,1833
+1674561166595,14405,BGCA home page,200,OK,BGCA Thread Group 1-1,text,false,"The operation lasted too long: It took 14,405 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,3,3,https://www.bgca.org/,13659,0,1779
+1674561167024,14059,BGCA home page,200,OK,BGCA Thread Group 1-5,text,false,"The operation lasted too long: It took 14,059 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,3,3,https://www.bgca.org/,13287,0,1357
+1674561180879,1206,About Us,200,OK,BGCA Thread Group 1-2,text,true,,96339,422,3,3,https://www.bgca.org/about-us,884,0,0
+1674561181024,1078,About Us,200,OK,BGCA Thread Group 1-1,text,true,,96339,422,3,3,https://www.bgca.org/about-us,760,0,0
+1674561181104,1251,About Us,200,OK,BGCA Thread Group 1-5,text,true,,96339,422,1,1,https://www.bgca.org/about-us,997,0,0
+1674561613763,2405,BGCA home page,200,OK,BGCA Thread Group 1-7,text,true,,96075,114,15,15,https://www.bgca.org/,1925,0,987
+1674561613477,3060,BGCA home page,200,OK,BGCA Thread Group 1-5,text,false,"The operation lasted too long: It took 3,060 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2537,0,1267
+1674561614037,2617,BGCA home page,200,OK,BGCA Thread Group 1-9,text,true,,96075,114,15,15,https://www.bgca.org/,2082,0,796
+1674561613214,3350,BGCA home page,200,OK,BGCA Thread Group 1-3,text,false,"The operation lasted too long: It took 3,350 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2805,0,1556
+1674561613048,3747,BGCA home page,200,OK,BGCA Thread Group 1-1,text,false,"The operation lasted too long: It took 3,747 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2965,0,1732
+1674561613614,3207,BGCA home page,200,OK,BGCA Thread Group 1-6,text,false,"The operation lasted too long: It took 3,207 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2413,0,1138
+1674561613878,2997,BGCA home page,200,OK,BGCA Thread Group 1-8,text,false,"The operation lasted too long: It took 2,997 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2159,0,890
+1674561613345,3561,BGCA home page,200,OK,BGCA Thread Group 1-4,text,false,"The operation lasted too long: It took 3,561 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2761,0,1405
+1674561614415,2728,BGCA home page,200,OK,BGCA Thread Group 1-12,text,false,"The operation lasted too long: It took 2,728 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,1982,0,776
+1674561614170,2970,BGCA home page,200,OK,BGCA Thread Group 1-10,text,false,"The operation lasted too long: It took 2,970 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2196,0,887
+1674561613076,4078,BGCA home page,200,OK,BGCA Thread Group 1-2,text,false,"The operation lasted too long: It took 4,078 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,3283,0,1705
+1674561614277,3210,BGCA home page,200,OK,BGCA Thread Group 1-11,text,false,"The operation lasted too long: It took 3,210 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2421,0,784
+1674561614538,3029,BGCA home page,200,OK,BGCA Thread Group 1-13,text,false,"The operation lasted too long: It took 3,029 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2515,0,831
+1674561614803,2926,BGCA home page,200,OK,BGCA Thread Group 1-15,text,false,"The operation lasted too long: It took 2,926 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,15,15,https://www.bgca.org/,2409,0,813
+1674561616820,1439,About Us,200,OK,BGCA Thread Group 1-1,text,true,,96339,422,15,15,https://www.bgca.org/about-us,1183,0,0
+1674561616845,1461,About Us,200,OK,BGCA Thread Group 1-6,text,true,,96339,422,14,14,https://www.bgca.org/about-us,1197,0,0
+1674561614674,3632,BGCA home page,200,OK,BGCA Thread Group 1-14,text,false,"The operation lasted too long: It took 3,632 milliseconds, but should not have lasted longer than 2,700 milliseconds.",96075,114,14,14,https://www.bgca.org/,3030,0,812
+1674561616705,1709,About Us,200,OK,BGCA Thread Group 1-3,text,true,,96339,422,13,13,https://www.bgca.org/about-us,1458,0,0
+1674561616379,2153,About Us,200,OK,BGCA Thread Group 1-7,text,true,,96339,422,12,12,https://www.bgca.org/about-us,1894,0,0
+1674561616692,1979,About Us,200,OK,BGCA Thread Group 1-5,text,true,,96339,422,11,11,https://www.bgca.org/about-us,1697,0,0
+1674561616702,2058,About Us,200,OK,BGCA Thread Group 1-9,text,true,,96339,422,10,10,https://www.bgca.org/about-us,1811,0,0
+1674561617175,1800,About Us,200,OK,BGCA Thread Group 1-10,text,true,,96339,422,9,9,https://www.bgca.org/about-us,1486,0,0
+1674561617173,1889,About Us,200,OK,BGCA Thread Group 1-12,text,true,,96339,422,8,8,https://www.bgca.org/about-us,1629,0,0
+1674561617186,1932,About Us,200,OK,BGCA Thread Group 1-2,text,true,,96339,422,7,7,https://www.bgca.org/about-us,1679,0,0
+1674561617750,1394,About Us,200,OK,BGCA Thread Group 1-15,text,true,,96339,422,6,6,https://www.bgca.org/about-us,1349,0,0
+1674561616917,2261,About Us,200,OK,BGCA Thread Group 1-8,text,true,,96339,422,5,5,https://www.bgca.org/about-us,1994,0,0
+1674561616930,2447,About Us,200,OK,BGCA Thread Group 1-4,text,true,,96339,422,4,4,https://www.bgca.org/about-us,2165,0,0
+1674561617583,2029,About Us,200,OK,BGCA Thread Group 1-13,text,true,,96339,422,3,3,https://www.bgca.org/about-us,1780,0,0
+1674561618348,1461,About Us,200,OK,BGCA Thread Group 1-14,text,true,,96339,422,2,2,https://www.bgca.org/about-us,1209,0,0
+1674561617506,2320,About Us,200,OK,BGCA Thread Group 1-11,text,true,,96339,422,2,2,https://www.bgca.org/about-us,2066,0,0
